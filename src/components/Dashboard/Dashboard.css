@@ -1,0 +1,39 @@
+.col{
+    margin:5px;
+width: 250px;
+height: 210px;
+border-radius: 30px ;
+    background-color: rgb(37, 198, 204);
+display: block;
+}
+.icon{
+margin-left: 100px;
+margin-top: 30px;    
+color: rgb(231, 228, 14);
+
+}
+h3{
+    margin-left: 90px;
+
+    margin-top: 40px;
+    color: rgb(233, 226, 219);
+}
+p{
+    margin-left: 20px;
+
+    color: wheat;
+}
+.row{
+    margin-top: 50px;
+}
+.box{
+    margin:5px;
+    width: 250px;
+    height: 210px;
+    border-radius: 70px ;
+        background-color: aqua;
+}
+.image{
+    margin-top: 10px;
+    width: 140px;
+}
